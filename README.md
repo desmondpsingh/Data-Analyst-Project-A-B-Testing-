@@ -13,7 +13,7 @@ For this project, I will be working to understand the results of an A/B test run
 - All code cells can be run without error.
 - Docstrings, comments, and variable names enable readability of the code.
 
-## Statistical Analyses
-- All results from different analyses are correctly interpreted.
+## Statistical Analysis
+- All results from different analysis are correctly interpreted.
 - For all numeric values, you should provide the correct results of the analysis.
 - Conclusions should include not only statistical reasoning, but also practical reasoning for the situation.
