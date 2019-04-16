@@ -1,6 +1,6 @@
 # Analyze A/B Results
 
-Udacity Data Analytics Nanodegree December 2017 - May 2018. Project 4: Analyze A/B Results 
+Data Analytics Project: Analyze A/B Results 
 
 
 # Project Details
