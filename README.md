@@ -2,7 +2,7 @@
 
 Data Analytics Project: Analyze A/B Results 
 
-#Introduction
+# Introduction
 A/B tests are used to test changes on a web page by running an experiment where a control group sees the old version, while the experiment group sees the new version. A metric is then chosen to measure the level of engagement from users in each group. These results are then used to judge whether one version is more effective than the other. 
 
 # Project Details
